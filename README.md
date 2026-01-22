@@ -1,6 +1,6 @@
-# Pest-Control-Manager-Desktop
-Pest Control Manager es una aplicación para empresas de control de plagas y desinfección que permite gestionar clientes, personal, servicios y reportes desde una sola plataforma, optimizando la operación y mejorando el control administrativo.
-🐜 Pest Control Manager
+
+
+#🐜 Pest Control Manager
 
 Pest Control Manager es una aplicación diseñada para empresas de control de plagas y desinfección que buscan organizar, digitalizar y optimizar todas sus operaciones desde una sola plataforma.
 
